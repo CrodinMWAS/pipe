@@ -1,0 +1,14 @@
+C:\Users\nagy.martin.mark\Documents\PIPE\C#\bin\Debug\net8.0\PIPE.exe
+C:\Users\nagy.martin.mark\Documents\PIPE\C#\bin\Debug\net8.0\PIPE.deps.json
+C:\Users\nagy.martin.mark\Documents\PIPE\C#\bin\Debug\net8.0\PIPE.runtimeconfig.json
+C:\Users\nagy.martin.mark\Documents\PIPE\C#\bin\Debug\net8.0\PIPE.dll
+C:\Users\nagy.martin.mark\Documents\PIPE\C#\bin\Debug\net8.0\PIPE.pdb
+C:\Users\nagy.martin.mark\Documents\PIPE\C#\obj\Debug\net8.0\PIPE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nagy.martin.mark\Documents\PIPE\C#\obj\Debug\net8.0\PIPE.AssemblyInfoInputs.cache
+C:\Users\nagy.martin.mark\Documents\PIPE\C#\obj\Debug\net8.0\PIPE.AssemblyInfo.cs
+C:\Users\nagy.martin.mark\Documents\PIPE\C#\obj\Debug\net8.0\PIPE.csproj.CoreCompileInputs.cache
+C:\Users\nagy.martin.mark\Documents\PIPE\C#\obj\Debug\net8.0\PIPE.dll
+C:\Users\nagy.martin.mark\Documents\PIPE\C#\obj\Debug\net8.0\refint\PIPE.dll
+C:\Users\nagy.martin.mark\Documents\PIPE\C#\obj\Debug\net8.0\PIPE.pdb
+C:\Users\nagy.martin.mark\Documents\PIPE\C#\obj\Debug\net8.0\PIPE.genruntimeconfig.cache
+C:\Users\nagy.martin.mark\Documents\PIPE\C#\obj\Debug\net8.0\ref\PIPE.dll
